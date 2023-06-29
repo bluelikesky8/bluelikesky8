@@ -8,13 +8,13 @@
 </li>
 
 <li>
-- 🌱 I’m currently learning web api with .net 6
+- 🌱 I’m currently working as a .net developer 
 </li>
 
 <li>- 💞️ I’m looking to collaborate on .net project  
 </li>
 
-<li>- 📫 How to reach me  gyanprakashtiwari@protonmail.com
+<li>- 📫 How to reach me  gyanprakashtiwari602@gmail.com
 </li>
 
 
